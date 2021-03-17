@@ -1,6 +1,6 @@
 // The autoComplete.js Engine instance creator
 const autoCompleteJS = new autoComplete({
-  name: "food & drinks",
+  name: "Regioner",
   data: {
     src: async function () {
       // Loading placeholder text
@@ -13,7 +13,7 @@ const autoCompleteJS = new autoComplete({
       // Returns Fetched data
       return data;
     },
-    key: ["food", "cities", "animals"],
+    key: ["cities"],
     results: (list) => {
       // Filter duplicates
       const filteredResults = Array.from(new Set(list.map((value) => value.match))).map((food) => {
@@ -26,7 +26,7 @@ const autoCompleteJS = new autoComplete({
   trigger: {
     event: ["input", "focus"],
   },
-  placeHolder: "Search for Food & Drinks!",
+  placeHolder: "Search for Swedish regions!",
   searchEngine: "strict",
   highlight: true,
   maxResults: 5,
