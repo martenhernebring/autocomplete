@@ -1,76 +1,60 @@
-[{
-        "cities": "Västra Götalands län,sydväst Vänern"
-    },
-    {
-        "cities": "Örebro län"
-    },
-    {
-        "cities": "Västra Götalands län,inre Dalsland"
-    },
-    {
-        "cities": "Västra Götalands län,Bohuslän och Göteborg"
-    },
-    {
-        "cities": "Värmlands län"
-    },
-    {
-        "cities": "Skåne län utom Österlen"
-    },
-    {
-        "cities": "Hallands län"
-    },
-    {
-        "cities": "Västra Götalands län,Sjuhäradsbygden och Göta älv"
-    },
-    {
-        "cities": "Västmanlands län"
-    },
-    {
-        "cities": "Västra Götalands län,norra Västergötland"
-    },
-    {
-        "cities": "Östergötlands län"
-    },
-    {
-        "cities": "Södermanlands län"
-    },
-    {
-        "cities": "Stockholms län utom Roslagskusten"
-    },
-    {
-        "cities": "Dalarnas län utom Dalafjällen"
-    },
-    {
-        "cities": "Gävleborgs län inland"
-    },
-    {
-        "cities": "Gävleborgs län kustland"
-    },
-    {
-        "cities": "Kalmar län utom Öland"
-    },
-    {
-        "cities": "Kalmar län,Öland"
-    },
-    {
-        "cities": "Gotlands län"
-    },
-    {
-        "cities": "Jönköpings län,västra delen utom syd om Vättern"
-    },
-    {
-        "cities": "Jönköpings län,östra delen"
-    },
-    {
-        "cities": "Jönköpings län,syd om Vättern"
-    },
-    {
-        "cities": "Kronobergs län,västra delen"
-    },
-    {
-        "cities": "Kronobergs län,östra delen"
-    },
-    {
-        "cities": "Uppsala län utom Upplandskusten"
-    }
+[
+  { "counties": "Blekinge län" },
+  { "counties": "Bottenviken" },
+  { "counties": "Bälten" },
+  { "counties": "Dalarnas län utom Dalafjällen" },
+  { "counties": "Dalarnas län, Dalafjällen" },
+  { "counties": "Finska viken" },
+  { "counties": "Gotlands län" },
+  { "counties": "Gävleborgs län inland" },
+  { "counties": "Gävleborgs län kustland" },
+  { "counties": "Hallands län" },
+  { "counties": "Jämtlands län utom fjällen" },
+  { "counties": "Jämtlands län, Härjedalsfjällen" },
+  { "counties": "Jämtlands län, Jämtlandsfjällen" },
+  { "counties": "Jönköpings län, syd om Vättern" },
+  { "counties": "Jönköpings län, västra delen utom syd om Vättern" },
+  { "counties": "Jönköpings län, östra delen" },
+  { "counties": "Kalmar län utom Öland" },
+  { "counties": "Kalmar län, Öland" },
+  { "counties": "Kattegatt" },
+  { "counties": "Kronobergs län, västra delen" },
+  { "counties": "Kronobergs län, östra delen" },
+  { "counties": "Mellersta Östersjön" },
+  { "counties": "Norra Bottenhavet" },
+  { "counties": "Norra Kvarken" },
+  { "counties": "Norra Östersjön" },
+  { "counties": "Norrbottens län, inland" },
+  { "counties": "Norrbottens län, kustland" },
+  { "counties": "Norrbottens län, norra Lapplandsfjällen" },
+  { "counties": "Rigabukten" },
+  { "counties": "Skagerack" },
+  { "counties": "Skärgårdshavet" },
+  { "counties": "Skåne län utom Österlen" },
+  { "counties": "Skåne län, Österlen" },
+  { "counties": "Stockholms län utom Roslagskusten" },
+  { "counties": "Stockholms län, Roslagskusten" },
+  { "counties": "Sydvästra Östersjön" },
+  { "counties": "Sydöstra Östersjön" },
+  { "counties": "Södermanlands län" },
+  { "counties": "Södra Bottenhavet" },
+  { "counties": "Södra Östersjön" },
+  { "counties": "Uppsala län, utom Upplandskusten" },
+  { "counties": "Uppsala län, Upplandskusten" },
+  { "counties": "Vänern" },
+  { "counties": "Värmlands län" },
+  { "counties": "Västerbottens län inland" },
+  { "counties": "Västerbottens län kustland" },
+  { "counties": "Västerbottens län, södra Lapplandsfjällen" },
+  { "counties": "Västernorrlands län" },
+  { "counties": "Västmanlands län" },
+  { "counties": "Västra Götalands län, Bohuslän och Göteborg" },
+  { "counties": "Västra Götalands län, inre Dalsland" },
+  { "counties": "Västra Götalands län, norra Västergötland" },
+  { "counties": "Västra Götalands län, Sjuhäradsbygden och Göta älv" },
+  { "counties": "Västra Götalands län, sydväst Vänern" },
+  { "counties": "Ålands hav" },
+  { "counties": "Örebro län" },
+  { "counties": "Öresund" },
+  { "counties": "Östergötlands län" }
 ]

@@ -13,7 +13,7 @@ const autoCompleteJS = new autoComplete({
       // Returns Fetched data
       return data;
     },
-    key: ["cities"],
+    key: ["counties"],
     results: (list) => {
       // Filter duplicates
       const filteredResults = Array.from(new Set(list.map((value) => value.match))).map((food) => {
@@ -26,7 +26,7 @@ const autoCompleteJS = new autoComplete({
   trigger: {
     event: ["input", "focus"],
   },
-  placeHolder: "Search for Swedish regions!",
+  placeHolder: "Sök län, länsområde eller havsområde",
   searchEngine: "strict",
   highlight: true,
   maxResults: 5,
